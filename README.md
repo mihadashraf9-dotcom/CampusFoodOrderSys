@@ -16,3 +16,16 @@ Java
 
 IDE used:
 Eclipse
+
+How to Run:
+
+1. Open the project in Eclipse.
+2. Run CampusFoodOrderService.java as a Java Application.
+3. The program will display notification messages in the console.
+
+Expected Output:
+
+The program should show notifications such as:
+Email notification sent
+SMS notification sent
+Push notification sent
